@@ -52,5 +52,3 @@ Soy un desarrollador con más de 5 años de experiencia en tecnologías **Front-
 ---
 
 ### Gracias por visitar mi perfil 😊
-
-![Footer](https://user-images.githubusercontent.com/your-image-footer.png)
