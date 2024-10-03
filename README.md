@@ -1,6 +1,6 @@
 # Hi there 👋 I'm **Luis Fernando Flores Cuadros**
 
-![Profile Views](https://komarev.com/ghpvc/?username=LuisFer2607&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=LuisFer2607&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge&logo=github) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luisfernandoflores?country.x=US&locale.x=es_XC) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luisfer2607/goal?g=0) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luisfer2607)
 
 ### Desarrollador Full Stack | Líder de Proyectos | Future -> Ingeniero en Sistemas
 
@@ -32,8 +32,22 @@ Soy un desarrollador con más de 5 años de experiencia en tecnologías **Front-
 
 ## 📈 Estadísticas de GitHub
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisFer2607&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFer2607&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisFer2607&show_icons=true&theme=radical" width="500" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFer2607&layout=compact&theme=radical" width="500" height="200">
+</div>
+
+---
+## ❤️ Patrociname
+Si te gusta este proyecto y deseas invitarme un café, puedes hacerlo a través de las siguientes plataformas:
+
+| Logo | Donation Link |
+|---|---|
+| [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luisfernandoflores?country.x=US&locale.x=es_XC) | https://paypal.me/luisfernandoflores |
+| [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luisfer2607/goal?g=0) | https://ko-fi.com/luisfer2607 |
+| [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luisfer2607) | https://buymeacoffee.com/luisfer2607 |
+
+Tu apoyo me ayuda a continuar mejorando el proyecto y agregar nuevas características. ¡Gracias por tu generosidad! 😊
 
 ---
 
